@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name GD32F190-dev-brd)(type Legacy)(uri ${KIPRJMOD}/GD32F190-dev-brd.lib)(options "")(descr ""))
+)

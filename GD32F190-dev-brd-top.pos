@@ -1,0 +1,38 @@
+### Module positions - created on 06/10/21 03:02:01 ###
+### Printed by Pcbnew version kicad (5.1.8)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val           Package                               PosX       PosY       Rot  Side
+C1        1u            C_0603_1608Metric                 122.4850  -132.5800  180.0000  top
+C2        1u            C_0603_1608Metric                 119.8700  -135.2100   90.0000  top
+C3        4u7           C_0402_1005Metric                 137.0400  -114.9600    0.0000  top
+C4        100n          C_0402_1005Metric                 135.9900  -115.9300    0.0000  top
+C5        100n          C_0402_1005Metric                 134.3200  -114.8800  315.0000  top
+C6        100n          C_0402_1005Metric                 125.2500  -123.4300  180.0000  top
+C7        1u            C_0603_1608Metric                 128.8750  -112.7750   90.0000  top
+C8        100n          C_0603_1608Metric                 126.5750  -111.2250  180.0000  top
+C9        100n          C_0603_1608Metric                 112.5400  -113.3050   90.0000  top
+C10       30p           C_0603_1608Metric                 132.7580  -105.9900  180.0000  top
+C11       30p           C_0603_1608Metric                 129.7100  -105.9900    0.0000  top
+C12       10p           C_0603_1608Metric                 137.0800  -111.0950   90.0000  top
+C13       10p           C_0603_1608Metric                 135.3800  -109.3650   90.0000  top
+D1        Orange        LED_0603_1608Metric               106.9770  -128.3165  270.0000  top
+D2        Red           LED_0603_1608Metric               115.9400  -128.3420  270.0000  top
+D3        Green         LED_0603_1608Metric               137.9625  -107.6100  180.0000  top
+FB1       100R          L_0805_2012Metric                 125.1100  -133.6300   90.0000  top
+J1        USB_B_Micro   USB_Micro-B_MicroQTJ              131.4100  -135.8700    0.0000  top
+L1        27n           L_0603_1608Metric                 126.6250  -112.7750    0.0000  top
+R1        2k2           R_0603_1608Metric                 108.6000  -128.3000  270.0000  top
+R2        3k3           R_0603_1608Metric                 114.1400  -128.3420  270.0000  top
+R3        3k3           R_0603_1608Metric                 139.2200  -111.5350   90.0000  top
+R4        10k           R_0603_1608Metric                 108.7500  -117.2500   90.0000  top
+R5        1M            R_0603_1608Metric                 131.1600  -111.6700    0.0000  top
+R6        100k          R_0603_1608Metric                 121.3900  -108.6050   90.0000  top
+R7        1k5           R_0603_1608Metric                 134.0900  -129.7900    0.0000  top
+R8        100k          R_0603_1608Metric                 104.6700  -118.4900  180.0000  top
+SW2       Reset         SW_SPST_PTS810                    109.2500  -112.5000  270.0000  top
+U1        XC6206PxxxMR  SOT-23                            122.4600  -135.2500    0.0000  top
+U2        GD32F190C8Tx  LQFP-48_7x7mm_P0.5mm              130.1500  -119.6100  270.0000  top
+Y1        8MHz          Crystal_SMD_5032-2Pin_5.0x3.2mm   131.1700  -108.7300  180.0000  top
+Y2        32.768kHz     Crystal_SMD_3215-2Pin_3.2x1.5mm   134.9000  -112.8800  315.0000  top
+## End

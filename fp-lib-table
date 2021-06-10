@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name GD32F190-dev-brd)(type KiCad)(uri ${KIPRJMOD}/GD32F190-dev-brd.pretty)(options "")(descr ""))
+)
